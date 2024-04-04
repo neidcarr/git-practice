@@ -1,1 +1,2 @@
-console.log("string");git init
+console.log("string");
+console.log("another something");
